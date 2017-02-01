@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_bb61d90c452896a3ba0d973985cb427732019fef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_4a4c8cd3271bf1e6eb471757bcd53eea035f1f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_2c29438a0589fd0198a9c23253f9f81483a8a221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b2dc46b68c13d34a17c7f9ce77590fcc8b66f163">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a94dc507baca4f79f45e5590d3c7d57d33a9d88b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_b4d67bd001d9ec1784d0398474474aca14ce97f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_7ed205134523b2829c14d6d5984b0da19c9522e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_db5f2a6cd28024090b4ef6f7f89939d6fb02877e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_e26a4d2cc57a8a89f73ec2b3f03981cd88da01de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_bb64e6eb6dc3803832d8bee56d16592559a288aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_a3b19e54685f04bcde8d54dc0cdc072cfb8b5be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_0afbf51f485625dfe32fcd749326bc94533ecfdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_0431e0ef391056c0a01443b9575d2acb8c08e9a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_3e0faac0457cd2ad70bb47adef382e90e423f373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_0c66196ee71224660025bb7942694a3710b57637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92bfc3179c0bb6e950bbffa761ac96c93e7580cc">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.0-beta.5_f327153293f440f11f05e6f54b91ebab1771206f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.mapzen.android/lost/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mapzen.android-lost-1.1.1_2bf206544c78152f2d1c38bc811120ba2ff2549e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_1e8f0374767be5e22d82c6e1feacfbf2d296b345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e0915a4982d3be4a3c9ba81a06f900720e537c8f">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_772fc923d7214b0f91042d766112643cfcd5784a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/1.3.1/6bda5f2cf57af827c1a9703a77ed9e451e6d6d25/mapbox-java-services-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bda5f2cf57af827c1a9703a77ed9e451e6d6d25">
+        <dex dex="/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/mapbox-java-services-1.3.1_5f103af5e28fd3c568d58b0f4a2b4265fda714a3/classes.dex" />
+    </item>
+
+</items>

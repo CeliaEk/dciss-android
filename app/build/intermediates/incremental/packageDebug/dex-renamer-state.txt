@@ -1,0 +1,7 @@
+#Mon Jan 02 21:05:21 CET 2017
+base.0=/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a94dc507baca4f79f45e5590d3c7d57d33a9d88b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_772fc923d7214b0f91042d766112643cfcd5784a/classes.dex
+base.1=/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_772fc923d7214b0f91042d766112643cfcd5784a
+file.0=/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a94dc507baca4f79f45e5590d3c7d57d33a9d88b/classes.dex

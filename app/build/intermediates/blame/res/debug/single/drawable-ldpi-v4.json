@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_info_outline_24dp.png",
+        "source": "/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/res/drawable-ldpi-v4/ic_info_outline_24dp.png"
+    },
+    {
+        "merged": "/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_info_outline_24dp_selected.png",
+        "source": "/Users/Sylvain/Documents/M2DCISS/Mobile/CapteurLocalisation/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.2.0-beta.5/res/drawable-ldpi-v4/ic_info_outline_24dp_selected.png"
+    }
+]
